@@ -1,0 +1,35 @@
+{
+    "data" : [
+        {
+            "pics":"gs.jpg",
+            "hashtag":"#fiuk",
+            "like": 1567
+        },
+        {
+            "pics":"sm.jpg",
+            "hashtag":"#bagau",
+            "like": 2100
+        },
+        {
+            "pics":"al.jpg",
+            "hashtag":"#protkó",
+            "like": 2120
+        },
+        {
+            "pics":"pro.jpg",
+            "hashtag":"#blessed",
+            "like": 2221
+        },
+        {
+            "pics":"w.jpg",
+            "hashtag":"#AjelemW",
+            "like": 1221
+        },
+        {
+            "pics":"ba.jpg",
+            "hashtag":"#ballin",
+            "like": 1221
+        }
+        
+    ]
+}
